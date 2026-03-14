@@ -40,7 +40,7 @@
 
 <!-- Contact Badges -->
 <div align="center">
-  
+
 [![Email](https://img.shields.io/badge/EMAIL-ajaybalaji197%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajaybalaji197@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Ajay_Balaji_B-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajay-balaji-b-791648388)
 [![Resume](https://img.shields.io/badge/RESUME-View_PDF-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1eEnuQ1siuET1aY5n36fwaNlpw-s7IMPd/view?usp=drive_link)
@@ -66,7 +66,6 @@
 
 <br>
 
-<!-- Visual System Status (Similar to Image 2) -->
 <table align="center">
   <tr>
   </tr>
@@ -145,12 +144,10 @@ system_status: OPERATIONAL // PROFILE.V2.0
 
 <div align="center">
 
-<!-- Section Header with Animation -->
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=12,14,20&height=150&section=header&text=What%20I'm%20Working%20On&fontSize=35&fontColor=ffffff&animation=fadeIn" width="100%" />
 
 <br>
 
-<!-- Content Cards in Grid -->
 <table>
 <tr>
 <td align="center" width="33%">
@@ -212,7 +209,6 @@ system_status: OPERATIONAL // PROFILE.V2.0
 
 <div align="center">
 
-<!-- Animated Coding Illustration -->
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="500" />
 
 <br><br>
@@ -258,7 +254,6 @@ system_status: OPERATIONAL // PROFILE.V2.0
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-<!-- Live Coding Animation -->
 <br>
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding Animation" width="400" />
 
@@ -361,7 +356,7 @@ system_status: OPERATIONAL // PROFILE.V2.0
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0D1117&stroke=00E5FF&ring=00E5FF&fire=FF6B6B&currStreakLabel=00E5FF" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0D1117&stroke=00ff88&ring=00ff88&fire=00ff88&currStreakLabel=00ff88" alt="GitHub Streak" />
 
 </div>
 
@@ -390,9 +385,8 @@ system_status: OPERATIONAL // PROFILE.V2.0
 
 <br>
 
-<!-- Inspirational Quote -->
 <div align="center">
-  
+
 **💡 "Innovation distinguishes between a leader and a follower." - Steve Jobs**
 
 <br>
@@ -402,7 +396,6 @@ system_status: OPERATIONAL // PROFILE.V2.0
 <br>
 <br>
 
-<!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:00E5FF&height=120&section=footer" />
 
 </div>
