@@ -66,13 +66,6 @@
 
 <br>
 
-<table align="center">
-  <tr>
-  </tr>
-</table>
-
-<br>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,5,10,12&height=2" />
 
 </div>
@@ -84,13 +77,6 @@
 <br>
 
 ## 🚀 About Me
-
-<div align="center">
-
-<!-- Profile Card with Gradient Border -->
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=6,11,20&height=150&section=header&text=Profile%20Overview&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
-
-</div>
 ```yaml
 name: Ajay Balaji B
 role: AI/ML Developer & Full-Stack Engineer
@@ -343,20 +329,6 @@ system_status: OPERATIONAL // PROFILE.V2.0
 ### 📚 Higher Secondary Education (12th Grade)
 **SOWMA PUBLIC SCHOOL (CBSE), Pochampalli**  
 📊 Percentage: **90.2%** | 🌟 Distinction | 🏆 Academic Excellence
-
-</div>
-
-<br>
-
----
-
-<br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0D1117&stroke=00ff88&ring=00ff88&fire=00ff88&currStreakLabel=00ff88" alt="GitHub Streak" />
 
 </div>
 
