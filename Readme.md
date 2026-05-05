@@ -58,19 +58,19 @@
 <br>
 
 <!-- Animated Snake eating contributions -->
-<!-- <picture>
+ <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-</picture> -->
+</picture>
 <!-- Static GitHub Dashboard -->
 <!-- Static GitHub Stats Dashboard -->
 <!-- Static Green Contribution Dashboard -->
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AjayBalajiB&bg_color=0d1f0f&color=00ff88&line=39d353&point=00ff88&area=true&area_color=39d353&hide_border=true&theme=react-dark">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AjayBalajiB&bg_color=0d2b0d&color=00cc66&line=2ea043&point=00cc66&area=true&area_color=2ea043&hide_border=true">
   <img alt="Ajay Balaji's GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=AjayBalajiB&bg_color=0d1f0f&color=00ff88&line=39d353&point=00ff88&area=true&area_color=39d353&hide_border=true" width="100%">
-</picture>
+</picture> -->
 <br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,5,10,12&height=2" />
