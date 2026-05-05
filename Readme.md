@@ -64,23 +64,24 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
 </picture> -->
 <!-- Static GitHub Dashboard -->
+<!-- Static GitHub Stats Dashboard -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=2,3,5,10,12&height=120&section=header&text=GitHub%20Dashboard&fontSize=35&fontColor=ffffff&animation=fadeIn" width="100%" />
+<br>
 
-<br><br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AjayBalajiB&show_icons=true&hide_border=true&bg_color=0d1f0f&title_color=00ff88&icon_color=39d353&text_color=a8d5a2&border_radius=10)
+&nbsp;&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AjayBalajiB&layout=compact&hide_border=true&bg_color=0d1f0f&title_color=00ff88&text_color=a8d5a2&border_radius=10)
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=AjayBalajiB&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&icon_color=7B2FFF&text_color=ffffff" />
+<br>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AjayBalajiB&theme=tokyonight&hide_border=true&background=0d1117&stroke=00E5FF&ring=7B2FFF&fire=00ff88&currStreakLabel=00E5FF" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AjayBalajiB&hide_border=true&background=0d1f0f&stroke=39d353&ring=00ff88&fire=39d353&currStreakLabel=00ff88&sideLabels=a8d5a2&dates=a8d5a2&currStreakNum=ffffff&sideNums=ffffff)
 
-<br><br>
+<br>
 
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjayBalajiB&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&text_color=ffffff" />
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AjayBalajiB&bg_color=0d1f0f&color=00ff88&line=39d353&point=ffffff&area=true&area_color=39d353&hide_border=true)
 
-<br><br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,5,10,12&height=2" />
+<br>
 
 </div>
 <br>
