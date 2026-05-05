@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <!-- Hero Section with Dark Theme Styling -->
@@ -57,12 +56,16 @@
 
 <br>
 
-<!-- Animated Snake eating contributions -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-</picture>
+<!-- Static GitHub Stats Dashboard (replaces snake animation) -->
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AjayBalajiB&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f3460&title_color=00E5FF&icon_color=7B2FFF&text_color=ffffff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AjayBalajiB&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f3460&title_color=00E5FF&text_color=ffffff)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AjayBalajiB&theme=tokyonight&hide_border=true&background=0f3460&stroke=00E5FF&ring=7B2FFF&fire=ff006e&currStreakLabel=00E5FF)
+
+</div>
 
 <br>
 
@@ -85,7 +88,7 @@ focus: Artificial Intelligence | Machine Learning | Deep Learning
 status: Open to Internships & Collaborations
 motto: "Building intelligent systems that solve real-world problems"
 system_status: OPERATIONAL // PROFILE.V2.0
-```
+` `` 
 
 <br>
 
@@ -371,3 +374,6 @@ system_status: OPERATIONAL // PROFILE.V2.0
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:00E5FF&height=120&section=footer" />
 
 </div>
+```
+
+**One thing to do:** Replace `AjayBalajiB` in the three stats image URLs with your actual GitHub username. That's the only change needed before pasting this into your `README.md`.
