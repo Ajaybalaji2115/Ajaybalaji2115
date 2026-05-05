@@ -58,12 +58,31 @@
 <br>
 
 <!-- Animated Snake eating contributions -->
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-</picture>
+</picture> -->
+<!-- Static GitHub Dashboard -->
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=2,3,5,10,12&height=120&section=header&text=GitHub%20Dashboard&fontSize=35&fontColor=ffffff&animation=fadeIn" width="100%" />
+
+<br><br>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=AjayBalajiB&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&icon_color=7B2FFF&text_color=ffffff" />
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AjayBalajiB&theme=tokyonight&hide_border=true&background=0d1117&stroke=00E5FF&ring=7B2FFF&fire=00ff88&currStreakLabel=00E5FF" />
+
+<br><br>
+
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjayBalajiB&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&text_color=ffffff" />
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,5,10,12&height=2" />
+
+</div>
 <br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,5,10,12&height=2" />
