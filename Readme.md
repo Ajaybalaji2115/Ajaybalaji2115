@@ -65,25 +65,12 @@
 </picture> -->
 <!-- Static GitHub Dashboard -->
 <!-- Static GitHub Stats Dashboard -->
-<div align="center">
-
-<br>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AjayBalajiB&show_icons=true&hide_border=true&bg_color=0d1f0f&title_color=00ff88&icon_color=39d353&text_color=a8d5a2&border_radius=10)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AjayBalajiB&layout=compact&hide_border=true&bg_color=0d1f0f&title_color=00ff88&text_color=a8d5a2&border_radius=10)
-
-<br>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AjayBalajiB&hide_border=true&background=0d1f0f&stroke=39d353&ring=00ff88&fire=39d353&currStreakLabel=00ff88&sideLabels=a8d5a2&dates=a8d5a2&currStreakNum=ffffff&sideNums=ffffff)
-
-<br>
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AjayBalajiB&bg_color=0d1f0f&color=00ff88&line=39d353&point=ffffff&area=true&area_color=39d353&hide_border=true)
-
-<br>
-
-</div>
+<!-- Static Green Contribution Dashboard -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AjayBalajiB&bg_color=0d1f0f&color=00ff88&line=39d353&point=00ff88&area=true&area_color=39d353&hide_border=true&theme=react-dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AjayBalajiB&bg_color=0d2b0d&color=00cc66&line=2ea043&point=00cc66&area=true&area_color=2ea043&hide_border=true">
+  <img alt="Ajay Balaji's GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=AjayBalajiB&bg_color=0d1f0f&color=00ff88&line=39d353&point=00ff88&area=true&area_color=39d353&hide_border=true" width="100%">
+</picture>
 <br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,5,10,12&height=2" />
